@@ -8,14 +8,15 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.8
 	github.com/gorilla/websocket v1.5.0
-	github.com/lucas-clemente/quic-go v0.27.1
+	github.com/lucas-clemente/quic-go v0.27.2
 	github.com/marten-seemann/qtls-go1-16 v0.1.5
-	github.com/marten-seemann/qtls-go1-17 v0.1.1
-	github.com/marten-seemann/qtls-go1-18 v0.1.1
+	github.com/marten-seemann/qtls-go1-17 v0.1.2
+	github.com/marten-seemann/qtls-go1-18 v0.1.2
 	github.com/miekg/dns v1.1.49
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.6.2
 	github.com/refraction-networking/utls v1.1.0
+	github.com/sagernet/sing v0.0.0-20220525062603-53c607b13ff2
 	github.com/sagernet/sing-shadowsocks v0.0.0-20220525121912-9e43a1c42021
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
 	github.com/stretchr/testify v1.7.1
